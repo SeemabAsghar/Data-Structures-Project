@@ -1,0 +1,6 @@
+40, Fruits, Fresh seasonal fruits
+25, Vegetables, Fresh seasonal vegetables
+6, Meat and Seafood, A selection of meats (beef, chicken) and seafood
+21, Bevarages, Only Halal bevarages available
+12, Makeup, All beauty products
+16, kitchen ware, stainless steel

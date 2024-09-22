@@ -1,0 +1,14 @@
+30, Mango, 40, 200, Fruits
+80, Strawberry, 30, 300, Fruits
+11, Watermelons, 20, 450, Fruits
+21, Bittergourd, 45, 500, Vegetables
+26, Potato, 45, 50, Vegetables
+24, Carrot, 30, 500, Vegetables
+45, Chicken, 20, 800, Meat and Seafood
+52, Cola Next, 26, 150, Bevarages
+55, Apple sidra, 25, 200, Bevarages
+66, Fish, 10, 800, Meat and Seafood
+25, Beef, 10, 900, Meat and Seafood
+50, Liner, 10, 200, Makeup
+555, Lipstick, 52, 1000, Fruits
+99, aloo, 20, 500, Vegetables
